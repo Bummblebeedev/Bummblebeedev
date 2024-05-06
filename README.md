@@ -38,7 +38,7 @@
 <p align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" alt="Svelte"
             height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java"
+        <img src="https://i.ibb.co/2smHT8r/1658763190886-removebg-preview.png" alt="1658763190886-removebg-preview" alt="Assembly"
             height="40">
     </p>
 
