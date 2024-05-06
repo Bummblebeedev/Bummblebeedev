@@ -29,7 +29,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
             alt="TypeScript" height="40">
     </p>
-
   ---
 
 <h3 align="center">Learning</h3>
