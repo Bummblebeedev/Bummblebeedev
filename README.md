@@ -18,6 +18,8 @@
             alt="JavaScript" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js"
             height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+            alt="NextJs" height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="ReactJs"
             height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original-wordmark.svg" alt="Yarn"
