@@ -28,6 +28,8 @@
             height="40">
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"
             alt="TypeScript" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"
+            alt="TypeScript" height="40">
     </p>
   ---
 
