@@ -58,7 +58,7 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
                 alt="Discord" height="30" width="40"></a>
         <a href="" target="_blank"><img
-                src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Gmail"
+                src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Gmail"
                 height="30" width="40"></a>
     </p>
 
