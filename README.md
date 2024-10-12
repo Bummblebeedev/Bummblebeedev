@@ -5,8 +5,7 @@
   <br>
   <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=exo&pause=1000&color=FFFFFF&random=false&width=435&lines=++++++++Hello+Guys+i+'m+Bummble+bee" alt="Typing SVG" /></a>
-  <h3 align="center">Skills</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hey+guys+I+am+Bummble+Bee" alt="Typing SVG" /></a>
 
 <p align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="LUA"
