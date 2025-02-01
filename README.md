@@ -28,7 +28,7 @@ local bummbleBee = {
 <h3 align="center">Skills</h3>
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=html,php,css,js,ts,react,bootstrap,svg,lua,mysql,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,angular,vscode&theme=light)](https://github.com/Bummblebeedev)
+[![Languages](https://skillicons.dev/icons?i=html,php,css,js,ts,react,bootstrap,svg,lua,mysql,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,angular,discordjs,vscode&theme=light)](https://github.com/Bummblebeedev)
 
 </div>
 
