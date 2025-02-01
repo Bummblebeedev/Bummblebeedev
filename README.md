@@ -45,7 +45,7 @@ local bummbleBee = {
 <h3 align="center">Databases</h3>
 <div align="center">
 
-[![database](https://skillicons.dev/icons?i=mysql,firebase,mangodb)](https://github.com/Bummblebeedev)
+[![database](https://skillicons.dev/icons?i=mysql,firebase,mangodb&theme=white)](https://github.com/Bummblebeedev)
 
 </div>
 
