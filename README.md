@@ -28,7 +28,7 @@ local bummbleBee = {
 <h3 align="center">Skills</h3>
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=html,php,css,js,ts,react,bootstrap,svg,lua,mysql,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,angular,vscode&theme=dark)](https://github.com/Bummblebeedev)
+[![Languages](https://skillicons.dev/icons?i=html,php,css,js,ts,react,bootstrap,svg,lua,mysql,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,angular,vscode&theme=light)](https://github.com/Bummblebeedev)
 
 </div>
 
@@ -37,7 +37,7 @@ local bummbleBee = {
 <h3 align="center">Learning</h3>
 <div align="center">
 
-[![Learning](https://skillicons.dev/icons?i=svelte,vue,swift)](https://github.com/Bummblebeedev)
+[![Learning](https://skillicons.dev/icons?i=svelte,vue,swift&theme=light)](https://github.com/Bummblebeedev)
 
 </div>
   ---
@@ -45,7 +45,7 @@ local bummbleBee = {
 <h3 align="center">Databases</h3>
 <div align="center">
 
-[![database](https://skillicons.dev/icons?i=mysql,firebase,mangodb&theme=dark)](https://github.com/Bummblebeedev)
+[![database](https://skillicons.dev/icons?i=mysql,firebase,mangodb&theme=light)](https://github.com/Bummblebeedev)
 
 </div>
 
