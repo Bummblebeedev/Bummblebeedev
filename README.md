@@ -16,6 +16,7 @@ local bummbleBee = {
     currentProjects = "Back 2 Home Development.." 
 }
 ```
+</div>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hey+guys+I+am+Bummble+Bee" alt="Typing SVG" /></a>
 
@@ -83,4 +84,3 @@ local bummbleBee = {
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1028992056128983090)](https://discord.com/users/1028992056128983090)
 
-</div>
