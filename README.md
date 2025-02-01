@@ -16,7 +16,7 @@ local bummbleBee = {
         }
     },
     technologies = {
-        databases = {"MySql", "Firebase", "MangoDB"} 
+        databases = {"MySql", "Firebase", "Mongodb"} 
     },
     currentProjects = "Back 2 Home Development.." 
 }
@@ -45,7 +45,7 @@ local bummbleBee = {
 <h3 align="center">Databases</h3>
 <div align="center">
 
-[![database](https://skillicons.dev/icons?i=mysql,firebase,mangodb&theme=light)](https://github.com/Bummblebeedev)
+[![database](https://skillicons.dev/icons?i=mysql,firebase,mongodb&theme=light)](https://github.com/Bummblebeedev)
 
 </div>
 
