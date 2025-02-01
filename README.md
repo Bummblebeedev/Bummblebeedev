@@ -25,7 +25,7 @@ local bummbleBee = {
 ## Languages
 <p align="center">
 [![Languages](https://skillicons.dev/icons?i=html,php,flutter,css,js,ts,react,bootstrap,svg,lua,mysql,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,angular,vscode&theme=dark)](https://github.com/Bummblebeedev)
-</p>>
+</p>
 
 <h3 align="center">Learning</h3>
 
