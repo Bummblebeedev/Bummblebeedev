@@ -28,7 +28,7 @@ local bummbleBee = {
 <h3 align="center">Skills</h3>
 <div align="center">
 
-[![Languages](https://skillicons.dev/icons?i=html,php,css,js,ts,react,bootstrap,svg,lua,mysql,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,angular,discordjs,vscode&theme=dark&flutter&perline=4)](https://github.com/Bummblebeedev)
+[![Languages](https://skillicons.dev/icons?i=html,php,css,js,ts,react,bootstrap,svg,lua,mysql,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,angular,discordjs,vscode&theme=dark)](https://github.com/Bummblebeedev)
 
 </div>
 
@@ -51,16 +51,12 @@ local bummbleBee = {
 
   ---
 
-  <h3 align="center">Connect with Me</h3>
+<h3 align="center">Connect with Me</h3>
+<div align="center">
 
-  <p align="center">
-        <a href="https://discord.gg/k9eUnjfbTt" target="_blank"><img
-                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-                alt="Discord" height="30" width="40"></a>
-        <a href="" target="_blank"><img
-                src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Gmail"
-                height="30" width="40"></a>
-    </p>
+[![connect](https://skillicons.dev/icons?i=discord,gmail&theme=dark)](https://github.com/Bummblebeedev)
+
+</div>
 
   ---
 
