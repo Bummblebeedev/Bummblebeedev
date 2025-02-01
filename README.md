@@ -1,3 +1,7 @@
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hey+guys+I+am+Bummble+Bee" alt="Typing SVG" /></a>
+</div>
+
 <div align="left">
 
 ```lua
@@ -18,7 +22,6 @@ local bummbleBee = {
 ```
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hey+guys+I+am+Bummble+Bee" alt="Typing SVG" /></a>
 
 <p align="center">
         <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="LUA"
