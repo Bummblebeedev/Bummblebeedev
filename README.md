@@ -22,9 +22,10 @@ local bummbleBee = {
 ```
 </div>
 
+<div align="center">
 ## Languages
 [![Languages](https://skillicons.dev/icons?i=html,php,flutter,css,js,ts,react,bootstrap,svg,lua,mysql,nodejs,python,java,bots,git,jquery,cs,cpp,blender,azure,angular,vscode&theme=dark)](https://github.com/Bummblebeedev)
-
+</div>
 
 <h3 align="center">Learning</h3>
 
