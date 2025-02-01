@@ -1,9 +1,21 @@
 <div align="center">
 
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjE4MDd1YWI3Nmp0NjNkbWNkeDZmb25wYXpoY2xicHVtdmxpeWhtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif" width="400px" height="300px" />
-
-  <br>
-  <br>
+```lua
+local bummbleBee = {
+    Name = {"BummbleBee"}, 
+    askMeAbout = {
+        hobbies = {
+            "Coding",
+            "Gaming",
+            "Exploring new tech for FiveM development"
+        }
+    },
+    technologies = {
+        databases = {"MySql", "Firebase", "MariaDB"} 
+    },
+    currentProjects = "Back 2 Home Development.." 
+}
+```
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=30&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hey+guys+I+am+Bummble+Bee" alt="Typing SVG" /></a>
 
