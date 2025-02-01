@@ -61,6 +61,6 @@ local bummbleBee = {
   ---
 
   <h3 align="center">Stats</h3>
-
+<div align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/1028992056128983090)](https://discord.com/users/1028992056128983090)
-
+</div>
