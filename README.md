@@ -3,7 +3,6 @@
 </div>
 
 ## AboutMe.lua
----
 <div align="left">
 
 ```lua
