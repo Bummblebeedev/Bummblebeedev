@@ -16,7 +16,7 @@ local bummbleBee = {
         }
     },
     technologies = {
-        databases = {"MySql", "Firebase", "Mongodb"} 
+        databases = {"MySql", "Supabase", "Mongodb"} 
     },
     currentProjects = "Back 2 Home Development.." 
 }
