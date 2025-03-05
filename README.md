@@ -18,7 +18,7 @@ local bummbleBee = {
     technologies = {
         databases = {"MySql", "Supabase", "Mongodb"} 
     },
-    currentProjects = "Back 2 Home Development.." 
+    currentProjects = "PX-Scripts Developments Project.." 
 }
 ```
 </div>
