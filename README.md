@@ -23,7 +23,7 @@ local bummbleBee = {
 ```
 </div>
 
----
+  ---
 
 <h3 align="center">Skills</h3>
 <div align="center">
