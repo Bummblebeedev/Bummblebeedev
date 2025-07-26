@@ -40,6 +40,7 @@ local bummbleBee = {
 [![Learning](https://skillicons.dev/icons?i=svelte,vue,swift&theme=dark)](https://github.com/Bummblebeedev)
 
 </div>
+
   ---
 
 <h3 align="center">Databases</h3>
