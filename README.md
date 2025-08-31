@@ -6,7 +6,7 @@
 <div align="left">
 
 ```lua
-local bummbleBee = {
+local BummbleBee = {
     Name = {"BummbleBee"}, 
     askMeAbout = {
         hobbies = {
