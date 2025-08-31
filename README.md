@@ -1,4 +1,8 @@
 <div align="center">
+
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzY5eDBja2I4c2o3cHFrZmJmd3IzdHJhZWpla2VycXl1d3Nsa2lpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400px" height="300px" />
+
+    
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=33&pause=1000&width=435&lines=Hey+Guys+I+Am+Bummble+Bee;Web+Developer+%7C+Front+End+Dev" alt="Typing SVG" /></a>
 </div>
 
