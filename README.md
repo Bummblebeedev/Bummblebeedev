@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://tenor.com/view/coding-scaler-create-impact-monkey-programmer-gif-24991476" width="400px" height="400px" />
-</div>
+<div class="tenor-gif-embed" data-postid="24991476" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-scaler-create-impact-monkey-programmer-gif-24991476">Coding Scaler GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <br>
 <br>
