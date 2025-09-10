@@ -1,8 +1,3 @@
-<div class="tenor-gif-embed" data-postid="24991476" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/coding-scaler-create-impact-monkey-programmer-gif-24991476">Coding Scaler GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-<br>
-<br>
-
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=33&pause=1000&width=435&lines=Hey+Guys+I+Am+Bummble+Bee;Web+Developer+%7C+Front+End+Dev" alt="Typing SVG" /></a>
 </div>
