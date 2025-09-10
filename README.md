@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTZ5bWE3MjlyOXM1cW1reXBxbTZ3NHBtNTdyNWkybnRneW8zcWwzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="400px" height="400px" />
+<img src="https://tenor.com/view/coding-scaler-create-impact-monkey-programmer-gif-24991476" width="400px" height="400px" />
 </div>
 
 <br>
