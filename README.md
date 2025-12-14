@@ -2,24 +2,37 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=33&pause=1000&width=435&lines=Hey+Guys+I+Am+Bummble+Bee;Web+Developer+%7C+Front+End+Dev" alt="Typing SVG" /></a>
 </div>
 
-## AboutMe.lua
+## AboutMe.tsx
 <div align="left">
 
-```lua
-local BummbleBee = {
-    Name = {"BummbleBee"}, 
-    askMeAbout = {
-        hobbies = {
-            "Coding",
-            "Gaming",
-            "Creating scripts for FiveM"
-        }
-    },
-    technologies = {
-        databases = {"MySql", "Supabase", "Mongodb"} 
-    },
-    currentProjects = "PX-Scripts Developments Project.." 
-}
+```tsx
+type BummbleBeeProfile = {
+  Name: string[];
+  askMeAbout: {
+    hobbies: string[];
+  };
+  technologies: {
+    databases: string[];
+  };
+  currentProjects: string;
+};
+
+const BummbleBee: BummbleBeeProfile = {
+  Name: ["BummbleBee"],
+  askMeAbout: {
+    hobbies: [
+      "Coding",
+      "Gaming",
+      "Creating scripts for FiveM",
+    ],
+  },
+  technologies: {
+    databases: ["MySql", "Supabase", "Mongodb"],
+  },
+  currentProjects: "PX-Scripts Developments Project..",
+};
+
+export default BummbleBee;
 ```
 </div>
 
