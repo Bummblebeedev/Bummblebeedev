@@ -1,5 +1,10 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Cairo&weight=600&size=33&pause=1000&width=435&lines=Hey+Guys+I+Am+Bummble+Bee;Web+Developer+%7C+Front+End+Dev" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Quantico&weight=400&size=33&pause=1000&width=435&lines=Hey+Guys+I+Am+Bummble+Bee;Web+Developer+%7C+Front+End+Dev"
+      alt="Typing SVG"
+    />
+  </a>
 </div>
 
 ## AboutMe.tsx
