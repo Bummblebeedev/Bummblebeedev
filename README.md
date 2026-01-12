@@ -79,15 +79,6 @@ export default BummbleBee;
 
   ---
 
-<h3 align="center">Stats</h3>
-<div align="center">
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/1028992056128983090)](https://discord.com/users/1028992056128983090)
-
-</div>
- 
-  ---
-
 <h3 align="center">Best Hosting Provider</h3>
 <div align="center">
 
@@ -100,6 +91,19 @@ export default BummbleBee;
   />
 </a>
 
-<p><b>High-Performance FiveM • Game • Web Hosting • Minecraft</b></p>
+<p>
+  <b>High-Performance FiveM • Game • Web Hosting • Minecraft</b><br/>
+  <sub>🌐 Network ASN: <b>AS213574</b></sub>
+</p>
 
 </div>
+
+  ---
+
+<h3 align="center">Stats</h3>
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1028992056128983090)](https://discord.com/users/1028992056128983090)
+
+</div>
+ 
