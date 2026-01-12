@@ -85,3 +85,21 @@ export default BummbleBee;
 [![Discord Presence](https://lanyard.cnrad.dev/api/1028992056128983090)](https://discord.com/users/1028992056128983090)
 
 </div>
+ 
+  ---
+
+<h3 align="center">Best Hosting Partner</h3>
+<div align="center">
+
+<a href="https://gbnodes.host" target="_blank">
+  <img 
+    src="https://raw.githubusercontent.com/Bummblebeedev/Bummblebeedev/main/assets/gbnodes.png"
+    alt="GB Nodes Hosting"
+    width="650"
+    style="max-width:100%; height:auto;"
+  />
+</a>
+
+<p><b>High-Performance FiveM • Game • Web Hosting</b></p>
+
+</div>
