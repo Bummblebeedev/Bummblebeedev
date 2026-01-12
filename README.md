@@ -88,7 +88,7 @@ export default BummbleBee;
  
   ---
 
-<h3 align="center">Best Hosting Partner</h3>
+<h3 align="center">Best Hosting Provider</h3>
 <div align="center">
 
 <a href="https://gbnodes.host" target="_blank">
@@ -100,6 +100,6 @@ export default BummbleBee;
   />
 </a>
 
-<p><b>High-Performance FiveM • Game • Web Hosting</b></p>
+<p><b>High-Performance FiveM • Game • Web Hosting • Minecraft</b></p>
 
 </div>
